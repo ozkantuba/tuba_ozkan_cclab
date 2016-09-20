@@ -1,0 +1,43 @@
+.balls {
+	width: 100px;
+	height: 100px;
+	background: white;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+
+}
+
+#ball1{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background: #FFFF18;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	top: 20vh;
+	left: 50vw;
+	text-align: center;
+	font-family: 'Oswald';
+	font-size: 10px;
+}
+
+#ball2{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background: #00FBFF;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	top: 20vh;
+	left: 70vw;
+	text-align: center;
+	font-family: 'Oswald';
+	font-size: 10px;
+	
+}
+
+
+
